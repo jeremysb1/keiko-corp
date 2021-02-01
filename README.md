@@ -15,4 +15,5 @@ Note overall score of 67
 
 1.  I moved the script tags from the head section to the bottom of the body section in the index.html file.
 2.  I evaluated which files were not minimized, and which ones could be eliminated.
-3.  
+3.  Removed 3rd party CSS packages which didn't add much to the UX and minified the main CSS file.
+4.  
