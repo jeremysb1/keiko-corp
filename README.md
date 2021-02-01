@@ -13,5 +13,6 @@ Note overall score of 67
 
 ## actions taken
 
-1.  Eliminated render-blocking resources. I moved the script tags from the head section to the bottom of the body section in the index.html file.
-2.  
+1.  I moved the script tags from the head section to the bottom of the body section in the index.html file.
+2.  I evaluated which files were not minimized, and which ones could be eliminated.
+3.  
