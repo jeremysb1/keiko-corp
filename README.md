@@ -9,7 +9,7 @@ The purpose of this project is to analyze the website performance using PageSpee
 
 Note overall score of 67
 
-[PageSpeed Score](https://github.com/jeremysb1/keiko-corp/blob/master/Initial%20PageSpeed%20results.png)
+![PageSpeed Score !](https://github.com/jeremysb1/keiko-corp/blob/master/Initial%20PageSpeed%20results.png)
 
 ## actions taken
 
